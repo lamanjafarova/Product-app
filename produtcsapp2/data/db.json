@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Asus",
+      "price": 1100,
+      "description": "lorem ipsum",
+      "imgUrl": "https://www.asus.com/media/Odin/Websites/global/Series/15.png"
+    },
+    {
+      "id": 3,
+      "name": "Asus",
+      "price": 1000,
+      "description": "lorem ipsum",
+      "imgUrl": "https://www.asus.com/media/Odin/Websites/global/Series/15.png"
+    },
+    {
+      "id": 4,
+      "name": "Asus",
+      "price": 1400,
+      "description": "lorem ipsum",
+      "imgUrl": "https://www.asus.com/media/Odin/Websites/global/Series/15.png"
+    },
+    {
+      "name": "ASUS TUF",
+      "price": "2000",
+      "description": "lorem ipsum dolor lorem ipsum",
+      "imgUrl": "https://aztech.az/wp-content/uploads/2022/12/ASUS-TUF-Gaming-F15-FX506-2.png",
+      "id": 8
+    },
+    {
+      "name": "HP Pavillion",
+      "price": "2100",
+      "description": "lorem ipsum dolor lorem ipsum",
+      "imgUrl": "https://www.hp.com/gb-en/shop/Html/Merch/Images/c08153997_1750x1285.jpg",
+      "id": 9
+    },
+    {
+      "name": "Acer Aspire",
+      "price": "1220",
+      "description": "lorem ipsum dolor lorem ipsum",
+      "imgUrl": "https://aztech.az/wp-content/uploads/2022/12/ASUS-TUF-Gaming-F15-FX506-2.png",
+      "id": 10
+    },
+    {
+      "name": "ASUS TUF",
+      "price": "2000",
+      "description": "lorem ipsum dolor lorem ipsum",
+      "imgUrl": "https://www.hp.com/gb-en/shop/Html/Merch/Images/c08153997_1750x1285.jpg",
+      "id": 11
+    },
+    {
+      "name": "Acer Aspire",
+      "price": "1329",
+      "description": "lorem ipsum dolor",
+      "imgUrl": "https://www.hp.com/gb-en/shop/Html/Merch/Images/c08153997_1750x1285.jpg",
+      "id": 12
+    },
+    {
+      "name": "Acer Aspire",
+      "price": "1329",
+      "description": "lorem ipsum dolor lorem ipsum",
+      "imgUrl": "https://www.hp.com/gb-en/shop/Html/Merch/Images/c08153997_1750x1285.jpg",
+      "id": 13
+    },
+    {
+      "name": "Acer Aspire",
+      "price": "1220",
+      "description": "lorem ipsum dolor",
+      "imgUrl": "https://aztech.az/wp-content/uploads/2022/12/ASUS-TUF-Gaming-F15-FX506-2.png",
+      "id": 14
+    },
+    {
+      "name": "Acer Aspire",
+      "price": "1329",
+      "description": "lorem ipsum dolor lorem ipsum",
+      "imgUrl": "https://aztech.az/wp-content/uploads/2022/12/ASUS-TUF-Gaming-F15-FX506-2.png",
+      "id": 15
+    }
+  ]
+}
